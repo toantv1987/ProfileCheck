@@ -1,0 +1,951 @@
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\bin\Debug\libxl.net.dll
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Form1.resources
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Toantv\Asahi Project\AutoDoDuongKinh\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\bin\Debug\libxl.net.dll
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Form1.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Toantv\Asahi Project\App Auto Check Profile - Update Ver3 new Method\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\bin\Debug\libxl.net.dll
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Form1.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile - Update doan plopy 26 08 L7 Giong thuc te\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\libxl.net.dll
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Toantv\Asahi Project\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 11 oct 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 16 Nov 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 12 Dec 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 24 Dec 19 - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 07 Jan 20\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FormDemoSQLite.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - 3380\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 08 Jan 20 Original - pp tb-a - test - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\Admin\Desktop\31.Mar.30\App Auto Check Profile Ver3 Lastest 20 Mar 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Apr 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 04 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 05 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 21 May 20 Original - pp tb-a - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 Aug 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 22 Aug 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 06 Oct 20 Original - Copy\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 13 May 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 14 May 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng48\Desktop\Program C#\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csprojAssemblyReference.cache
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\eng45\Desktop\App Auto Check Profile Ver3 Lastest 19 Jul 21\App Auto Check Profile Ver3 Lastest 19 Jul 21\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.config
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.application
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.exe
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\libxl.net.pdb
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\libxl.net.dll.config
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.AssemblyReference.cache
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe.manifest
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.application
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.exe
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 3.0.0.7.pdb
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.AssemblyReference.cache
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe.config
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe.manifest
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.application
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.pdb
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.exe.manifest
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.application
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.exe
+D:\Asahi Project\App Auto Check Profile Ver3 update chart 20.Dec.21\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.pdb
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe.config
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe.manifest
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.application
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.pdb
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.AssemblyReference.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.GenerateResource.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CoreCompileInputs.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.exe.manifest
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.application
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.csproj.CopyComplete
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.exe
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.pdb

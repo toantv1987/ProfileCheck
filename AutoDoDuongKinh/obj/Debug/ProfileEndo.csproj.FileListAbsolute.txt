@@ -1,0 +1,77 @@
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe.config
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe.manifest
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.application
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.exe
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Auto Check Profile Ver 1.0.0.0.pdb
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.AssemblyReference.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.GenerateResource.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.CoreCompileInputs.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.exe.manifest
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.application
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.CopyComplete
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.exe
+D:\Asahi Project\App Auto Check Profile Check Endo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Auto Check Profile Ver 1.0.0.0.pdb
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.AssemblyReference.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.GenerateResource.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.CoreCompileInputs.cache
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.CopyComplete
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End Ver 1.06.exe.config
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End Ver 1.06.exe.manifest
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End Ver 1.06.application
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End Ver 1.06.exe
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End Ver 1.06.pdb
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Profile Check End Ver 1.06.exe.manifest
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Profile Check End Ver 1.06.application
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Profile Check End Ver 1.06.exe
+D:\Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Profile Check End Ver 1.06.pdb
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End 1.00.exe.config
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End 1.00.exe.manifest
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End 1.00.application
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End 1.00.exe
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Profile Check End 1.00.pdb
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.dll
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.xml
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.AssemblyReference.cache
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.AboutBox1.resources
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.frmMain.resources
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.FrmProperty.resources
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.inforGroupITEM.resources
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\AutoDoDuongKinh.Properties.Resources.resources
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.GenerateResource.cache
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.CoreCompileInputs.cache
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Profile Check End 1.00.exe.manifest
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Profile Check End 1.00.application
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\ProfileEndo.csproj.CopyComplete
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Profile Check End 1.00.exe
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\obj\Debug\Profile Check End 1.00.pdb
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.xml
+D:\Code Asahi Project\App Auto Check Profile Check Endo\ProfileCheckEndo\AppAutoCheckProfileV3\AutoDoDuongKinh\bin\Debug\System.Data.SQLite.dll.config
